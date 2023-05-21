@@ -1,1 +1,1 @@
-# TugasMakalahIF2211_13521159
+# Aplikasi Algoritma KMP dalam Pengecekan Plagiarisme
